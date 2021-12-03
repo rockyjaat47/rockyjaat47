@@ -56,5 +56,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyjaat47&" alt="rockyjaat47" /></p>
 
 ### Give me Support & Credit ❤️ 
-<h6> Donate on Google Pay <img src </h6>
+<h6> Donate on Google Pay <img src="Screenshot_2021_11_25_23_58_23_83_4336b74596784d9a2aa81f87c2016f50.jpg"> </h6>
 
