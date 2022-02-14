@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Machine Laerning**
 
-- 👨‍💻 official site [gittools.blogspot.com](gittools.blogspot.com)
+- 👨‍💻 official site [metacrus.blogspot.com](metacrus.blogspot.com)
 
 - 📝 I regularly write articles on [https://medium.com/@rockyjaat111_](https://medium.com/@rockyjaat111_)
 
