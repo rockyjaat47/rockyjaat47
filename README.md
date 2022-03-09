@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Machine Laerning**
 
-- 👨‍💻 official site [metacrus.blogspot.com](metacrus.blogspot.com)
+- 👨‍💻 official site [metacrus.tk](metacrus.tk)
 
 - 📝 I regularly write articles on [https://medium.com/@rockyjaat111_](https://medium.com/@rockyjaat111_)
 
@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://codepen.io/rocky47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rocky47" height="30" width="40" /></a>
 <a href="https://dev.to/rockyjaat111_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rockyjaat111_" height="30" width="40" /></a>
-<a href="https://twitter.com/prabaljat111_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabaljat111_" height="30" width="40" /></a>
+<a href="https://twitter.com/rocky111_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabaljat111_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16957203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16957203" height="30" width="40" /></a>
 <a href="https://fb.com/rockyjat111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rockyjat111" height="30" width="40" /></a>
 <a href="https://instagram.com/rockyjaat111_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockyjaat111_" height="30" width="40" /></a>
@@ -58,6 +58,6 @@
 ### Give me Support & Credit ❤️ 
 <h6> Donate on Google Pay </h6> <br> <img src="Screenshot_2021_11_25_23_58_23_83_4336b74596784d9a2aa81f87c2016f50.jpg" width="30%" ><br>
 <div style="text-align:center">
-<h5> © Copyright by Team Rocky & Git tool's Community | 2021 ❤️ <h5>
+<h5> © Copyright by Team Rocky & Metacrus Community | 2021 ❤️ <h5>
   </div>
 
